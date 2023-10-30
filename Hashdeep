@@ -1,0 +1,3 @@
+Nano file1.txt
+hashdeep file1.txt > hash1.txt
+hashdeep -a file1.txt - k hash1.txt
